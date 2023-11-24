@@ -1,7 +1,5 @@
-#import json
 import psycopg2
 from tabulate import tabulate
-from contextlib import closing
 
 '''
 establish a connection between database and the program
